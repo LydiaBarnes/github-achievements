@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 162 162" style="enable-background:new 0 0 162 162;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#31B6AA;}
+	.st1{fill:#F1F2F2;}
+	.st2{fill:none;}
+</style>
+<circle class="st0" cx="81" cy="81" r="81"/>
+<path class="st1" d="M107.3,123.5L81,109.7l-26.3,13.8l5-29.3L38.4,73.4l29.4-4.3L81,42.5l13.2,26.6l29.4,4.3l-21.3,20.7
+	L107.3,123.5z M81,106.9l23.1,12.1l-4.4-25.7l18.6-18.2l-25.8-3.7L81,48.1L69.5,71.4l-25.8,3.7l18.6,18.2L57.9,119L81,106.9z"/>
+<polygon class="st1" points="116.8,43.7 118.3,51.2 125.7,52.7 118.3,54.2 116.8,61.6 115.3,54.2 107.9,52.7 115.3,51.2 "/>
+<polygon class="st1" points="34.1,98.9 35.6,106.6 43.3,108.1 35.6,109.7 34.1,117.3 32.5,109.7 24.8,108.1 32.5,106.6 "/>
+<polygon class="st1" points="32.1,51.4 32.8,54.7 36.2,55.4 32.8,56.1 32.1,59.5 31.4,56.1 28,55.4 31.4,54.7 "/>
+<polygon class="st1" points="125.7,125.5 126.4,128.9 129.8,129.6 126.4,130.3 125.7,133.7 125,130.3 121.7,129.6 125,128.9 "/>
+<g id="Achievements">
+	<path id="SVGID_x5F_1_x5F_" class="st2" d="M48,135.1C18.4,116.7,9.3,77.8,27.7,48.2S85,9.6,114.6,28s38.6,57.3,20.2,86.8
+		S77.5,153.5,48,135.1z"/>
+	<text>	<textPath  xlink:href="#SVGID_x5F_1_x5F_" startOffset="4969.8569%">
+<tspan  style="fill:#FFFFFF; font-family:'Gibson-SemiBold'; font-size:12px; letter-spacing:100;">ACHIEVEMENTS</tspan><tspan  style="fill:#304084; font-family:'Gibson-SemiBold'; font-size:12px; letter-spacing:100;">	</tspan><tspan  style="fill:#2F3C89; font-family:'Gibson-SemiBold'; font-size:12px; letter-spacing:100;">	
+			   </tspan>	</textPath>
+</text>
+</g>
+<g>
+	<path id="SVGID_x5F_2_x5F_" class="st2" d="M43.7,138.6c28.8,21.8,69.8,16.2,91.6-12.6s16.2-69.8-12.6-91.6S53,18.2,31.2,47
+		S15,116.8,43.7,138.6z"/>
+	<text>	<textPath  xlink:href="#SVGID_x5F_2_x5F_" startOffset="138.614%">
+<tspan  style="fill:#FFFFFF; font-family:'Gibson-SemiBold'; font-size:10px; letter-spacing:75;">GITHUB</tspan>	</textPath>
+</text>
+</g>
+</svg>

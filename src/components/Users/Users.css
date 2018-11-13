@@ -1,0 +1,64 @@
+.users-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-gap: 16px;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.user-card {
+  background-color: #fff;
+  box-shadow: 0 0 4px rgb(0, 0, 0, 0.2);
+  border-radius: 4px;
+  padding: 16px;
+
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.user-card:hover {
+  box-shadow: 0 0 8px var(--active-color);
+}
+
+.user-card a {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.user-avatar {
+  width: 100px;
+  flex: none;
+}
+
+.user-card-content {
+  margin-left: 8px;
+  flex: 1;
+}
+
+.user-card-content .user-badges {
+  display: block;
+}
+
+.user-card-content .badge-img {
+  width: 25px;
+  margin-right: 4px;
+} 
+
+.load-more-button {
+  background: var(--active-color);
+  border: none;
+  margin: 0;
+  padding: 12px;
+  color: white;
+  font: inherit;
+  line-height: 1;
+  border-radius: 4px;
+  cursor: pointer;
+
+  margin-top: 32px;
+}
+
+.load-more-button:hover {
+  opacity: 0.8;
+}

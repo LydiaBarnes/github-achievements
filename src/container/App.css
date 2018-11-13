@@ -1,0 +1,34 @@
+.app {
+  height: 100%;
+}
+
+.app {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-logo {
+  /* animation: App-logo-spin infinite 20s linear; */
+  height: 150px;
+}
+
+.app-header {
+  background-color: #fff;
+  padding: 16px;
+  box-shadow: 0 2px 16px 0 rgb(0, 0, 0, 0.2);
+  z-index: 1;
+  flex: none;
+}
+
+.app-main {
+  background-color: #f4f4f4;
+  flex: 1;
+  overflow-y: auto;
+  padding: 32px;
+}
+
+/* @keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+} */

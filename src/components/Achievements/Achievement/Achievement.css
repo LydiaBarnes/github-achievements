@@ -1,0 +1,52 @@
+:root {
+  --additions-color: #4DB74A;
+  --deletions-color: #D12854;
+  --global-border-color: #ddd;
+}
+
+.achievement-card {
+  background-color: #fff;
+  box-shadow: 0 0 4px rgb(0, 0, 0, 0.2);
+  border-radius: 4px;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+
+  /* for the pos:abs date */
+  position: relative;
+}
+
+.achievement-card + .achievement-card {
+  margin-top: 16px;
+}
+
+.achievement-card-content {
+  flex: 1;
+}
+
+.achievement-card-date {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 8px;
+
+  background-color: var(--active-color);
+  color: white;
+  border-radius: 4px;
+}
+
+.achievement-card-icon {
+  width: 100px;
+  height: 100px;
+  margin-right: 16px;
+  padding-right: 16px;
+  border-right: 1px solid var(--global-border-color);
+}
+
+.additions-text {
+  color: var(--additions-color);
+}
+
+.deletions-text {
+  color: var(--deletions-color);
+}

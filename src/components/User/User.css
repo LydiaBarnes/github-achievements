@@ -1,0 +1,44 @@
+.user-page {
+  height: 100%;
+  display: flex;
+}
+
+.user-page .app-header {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.user-info {
+  padding-bottom: 16px;
+  margin-bottom: 16px;
+  border-bottom: 1px solid var(--global-border-color);
+  flex: none;
+}
+
+.user-badges-container {
+  flex: 1;
+  overflow-y: auto;
+}
+
+.user-badges {
+  padding: 16px;
+
+  display: grid;
+  grid-gap: 32px;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.user-avatar {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.user-page .app-main {
+  flex: 2;
+}
+
+.user-page .app-main h2 {
+  margin-top: 0;
+}

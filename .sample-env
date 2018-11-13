@@ -1,0 +1,4 @@
+REACT_APP_GITHUB_PERSONAL_ACCESS_TOKEN="[paste_token_here]"
+
+# IMPORTANT: Add to git ignore once you paste your token!!!
+# Should only live locally!!!
